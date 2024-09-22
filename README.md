@@ -1,4 +1,4 @@
-# PROGRAMMING ASSIGNMENT 2
+# PROGRAMMING ASSIGNMENT 2 ✏️
 ## NUMERICAL PYTHON (NUMPY)
 The core Python library for scientific computing is called NumPy. A multidimensional array object, different derived objects, and a variety of routines for quick array operations—like sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation, and much more—are all provided by this Python library.
 
